@@ -10,6 +10,8 @@ namespace backend.Model
 
         public string Name { set; get; } = default!;
 
+        public string Email { set; get; } = default!;
+
         public string Password { set; get; } = default!;
 
         public string Role { set; get; } = default!;
