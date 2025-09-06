@@ -303,7 +303,7 @@ Las fechas se manejan en hora Bogotá, Colombia.
 
 Contraseñas siempre se guardan hasheadas.
 
-Roles (Aprobador, Usuario) controlan permisos de endpoints.
+Roles (Aprobador, Solicitante) controlan permisos de endpoints.
 
 ApiResponse<T> unifica todas las respuestas de la API.
 
